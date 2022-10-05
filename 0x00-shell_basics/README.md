@@ -8,3 +8,4 @@ script that creates a directory named my_first_directory in the /tmp/ directory
 move betty
 delete betty
 delete my first directory
+move a directory back
