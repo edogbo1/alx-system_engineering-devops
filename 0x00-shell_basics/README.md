@@ -11,3 +11,4 @@ delete my first directory
 move a directory back
 list all files even in boot
 print type of file name
+symbolic link
