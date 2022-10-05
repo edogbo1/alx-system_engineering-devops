@@ -12,3 +12,4 @@ move a directory back
 list all files even in boot
 print type of file name
 symbolic link
+coppy html file to parent working directory
