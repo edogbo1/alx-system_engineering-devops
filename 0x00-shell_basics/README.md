@@ -9,3 +9,4 @@ move betty
 delete betty
 delete my first directory
 move a directory back
+list all files even in boot
