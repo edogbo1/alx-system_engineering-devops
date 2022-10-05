@@ -7,3 +7,4 @@ display with user and group IDs displayed numerically
 script that creates a directory named my_first_directory in the /tmp/ directory
 move betty
 delete betty
+delete my first directory
