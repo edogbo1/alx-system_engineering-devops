@@ -4,3 +4,4 @@ print effective username of the current user
 change owner of a file
 EMPTY FILE
 execute permission for user
+execute permission to the owner and the group owner, and read permission to other users, to the file
