@@ -10,3 +10,4 @@ execute permission to the owner and the group owner, and read permission to othe
 file permission
  script that sets the mode of the file hello the same as olleh’s mode.
 permission
+file permissions
