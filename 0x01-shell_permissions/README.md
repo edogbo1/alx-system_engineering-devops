@@ -8,3 +8,4 @@ execute permission to the owner and the group owner, and read permission to othe
  script that adds execution permission to the owner, the group owner and the other users, to the file
  script that sets the permission to the file only to others
 file permission
+ script that sets the mode of the file hello the same as olleh’s mode.
