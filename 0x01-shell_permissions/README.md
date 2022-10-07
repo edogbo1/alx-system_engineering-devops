@@ -11,3 +11,4 @@ file permission
  script that sets the mode of the file hello the same as olleh’s mode.
 permission
 file permissions
+change group.
